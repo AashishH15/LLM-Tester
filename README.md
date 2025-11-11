@@ -46,8 +46,4 @@ Refer to the specific sub-directories (`LLM Tester/Hexagon_Ball Coding/Local/`, 
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
-
-[Specify your license here, e.g., MIT License]
-
-## README made by Gemini 2.5-Flash
+**README created by Gemini 2.5-Flash**
